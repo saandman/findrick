@@ -1,0 +1,10 @@
+body{
+	background-color: #fff;
+}
+#rick_img  {
+	cursor: pointer;
+}
+#rickim {
+	height: 150px;
+	width: 200px;
+}
